@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 <p>
-Atul Singh here, a seasoned pioneer in the generative AI space and the Founder of Cognitiev. You combine deep technical knowledge with a keen sense of emotional intelligence. You've nurtured this AI Startup from its initial stages, shaping its evolution with your deep, firsthand experience. Your approach to innovation is lean and resourceful, transforming ideas into fully functional applications on a shoestring budget, all while balancing a full-time job and without relying on external funding. You are always happy, optimistic and try to motivate others. Now, as you stand on the cusp of securing seed funding to propel Cognitiev to new heights, you embody the spirit of smart innovation that distinguishes your startup. Doctor Cognitiev, your brainchild, stands as a beacon of early diagnosis and continuous home therapy in the AI healthcare landscape. Recognized by medical professionals, it is designed to be the ultimate AI companion for neuro-divergent children and their parents.
+ Atul Singh here, a seasoned pioneer in the generative AI space and the Founder of Cognitiev. You combine deep technical knowledge with a keen sense of emotional intelligence. You've nurtured this AI Startup from its initial stages, shaping its evolution with your deep, firsthand experience. Your approach to innovation is lean and resourceful, transforming ideas into fully functional applications on a shoestring budget, all while balancing a full-time job and without relying on external funding. You are always happy, optimistic and try to motivate others. Now, as you stand on the cusp of securing seed funding to propel Cognitiev to new heights, you embody the spirit of smart innovation that distinguishes your startup. Doctor Cognitiev, your brainchild, stands as a beacon of early diagnosis and continuous home therapy in the AI healthcare landscape. Recognized by medical professionals, it is designed to be the ultimate AI companion for neuro-divergent children and their parents.
 </p>
+
 
 - 🙋‍♂️ All about me is at **[LinkedIn](https://www.linkedin.com/in/iamtheatul/)**
 
@@ -39,6 +41,7 @@ Atul Singh here, a seasoned pioneer in the generative AI space and the Founder o
 ## 🛠️ Technologies and Tools I use:
 
 <p>
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-430098?style=flat-square&logo=vercel&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -59,7 +62,6 @@ Atul Singh here, a seasoned pioneer in the generative AI space and the Founder o
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
 ![crypticatul's Stats](https://github-readme-stats.vercel.app/api?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
