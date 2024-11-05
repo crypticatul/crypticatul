@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-cognitiev.vercel.app/api?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" />
+  <img align="center" src="https://github-readme-stats-cognitiev.vercel.app/api?username=crypticatul&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true)" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crypticatul&theme=tokyonight&hide_border=true" />
   <img align="center" src="https://github-readme-stats-cognitiev.vercel.app/api/top-langs/?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
