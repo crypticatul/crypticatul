@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src ="./AtulDp3_2.png" />
-  
+  <img src ="./AtulDp3_2.png" height="290px" align="right"  /> 
 </div>
 <p>
 Myself Atul Singh, a seasoned pioneer in the generative AI space and the Founder of Cognitiev. You combine deep technical knowledge with a keen sense of emotional intelligence. You've nurtured this AI Startup from its initial stages, shaping its evolution with your deep, firsthand experience. Your approach to innovation is lean and resourceful, transforming ideas into fully functional applications on a shoestring budget, all while balancing a full-time job and without relying on external funding. You are always happy, optimistic and try to motivate others. Now, as you stand on the cusp of securing seed funding to propel Cognitiev to new heights, you embody the spirit of smart innovation that distinguishes your startup. Doctor Cognitiev, your brainchild, stands as a beacon of early diagnosis and continuous home therapy in the AI healthcare landscape. Recognized by medical professionals, it is designed to be the ultimate AI companion for neuro-divergent children and their parents.
 </p>
+
 <!--
 **crypticatul/crypticatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
