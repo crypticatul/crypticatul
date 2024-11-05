@@ -4,11 +4,11 @@
   <img src ="./AtulDp3_2.png" height="290px" align="right"  /> 
 </div>
 <p>
-Myself Atul Singh, a seasoned pioneer in the generative AI space and the Founder of Cognitiev. You combine deep technical knowledge with a keen sense of emotional intelligence. You've nurtured this AI Startup from its initial stages, shaping its evolution with your deep, firsthand experience. Your approach to innovation is lean and resourceful, transforming ideas into fully functional applications on a shoestring budget, all while balancing a full-time job and without relying on external funding. You are always happy, optimistic and try to motivate others. Now, as you stand on the cusp of securing seed funding to propel Cognitiev to new heights, you embody the spirit of smart innovation that distinguishes your startup. Doctor Cognitiev, your brainchild, stands as a beacon of early diagnosis and continuous home therapy in the AI healthcare landscape. Recognized by medical professionals, it is designed to be the ultimate AI companion for neuro-divergent children and their parents.
+Myself Atul Singh, a seasoned pioneer in the generative AI space and the Founder of Cognitiev. You combine deep technical knowledge with a keen sense of emotional intelligence. You've nurtured this AI Startup from its initial stages, shaping its evolution with my deep, firsthand experience. my approach to innovation is lean and resourceful, transforming ideas into fully functional applications on a shoestring budget, all while balancing a full-time job and without relying on external funding. You are always happy, optimistic and try to motivate others. Now, as you stand on the cusp of securing seed funding to propel Cognitiev to new heights, you embody the spirit of smart innovation that distinguishes my startup. Doctor Cognitiev, my brainchild, stands as a beacon of early diagnosis and continuous home therapy in the AI healthcare landscape. Recognized by medical professionals, it is designed to be the ultimate AI companion for neuro-divergent children and their parents.
 </p>
 
 <!--
-**crypticatul/crypticatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**crypticatul/crypticatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -67,6 +67,8 @@ Here are some ideas to get you started:
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
-![crypticatul's Stats](https://github-readme-stats.vercel.app/api?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![crypticatul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypticatul&theme=tokyonight&hide_border=true)
-![crypticatul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crypticatul&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticatul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
